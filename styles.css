@@ -43,7 +43,7 @@ input {
 
 }
 ::placeholder{
-  color:white;
+  color:rgb(248, 201, 119);
 }
 #user-pannel {
   text-align: center;
@@ -81,6 +81,7 @@ input {
   box-shadow: 4px 4px 8px 4px rgba(5, 5, 5, 0.726);
   border-radius: 1rem;
   background-color: thistle ;
+  color:rgb(248, 201, 119);
 }
 
 footer{
@@ -136,4 +137,5 @@ li img{
 p{
   background: rgba(0, 0, 0, 0.3);
   padding:0.2rem;
+  font-size: small;
 }
