@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Charm&display=swap");
+body {
+  font-family: sans-serif;
+  background-color: black;
+  font-family: "Charm", cursive;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  width: max-content;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  margin-bottom: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 0 10px white;
+}
+input {
+  height: 15rem;
+  width: auto;
+  margin-bottom: 0.5rem;
+  font-family: "Charm", cursive;
+  font-size: 1.1rem;
+}
+#user-pannel {
+  text-align: center;
+}
+#trans-button {
+  background-color: palevioletred;
+  padding-top: 0.4rem;
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+  padding-bottom: 0.4rem;
+  margin-bottom: 2rem;
+}
+#output {
+  height: 15rem;
+  width: 15rem;
+  background-color: pink;
+  margin: auto;
+  align-items: left;
+  padding-top: 0.4rem;
+  padding-left: 0.4rem;
+  font-family: "Charm", cursive;
+  font-size: 1.1rem;
+}
