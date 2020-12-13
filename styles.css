@@ -130,7 +130,8 @@ li img{
   border-radius: 140px;
 	-webkit-border-radius: 140px;
 	-moz-border-radius: 140px;
-	-webkit-box-shadow: 0 0 34px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, .8);
+  
 
   
 }
@@ -138,5 +139,6 @@ p{
   background: rgba(0, 0, 0, 0.3);
   padding:1rem;
   font-size: small;
-  box-shadow: 4px 4px 8px 4px rgba(5, 5, 5, 0.726);
+  box-shadow: 1px 1px 2px 1px rgba(5, 5, 5, 0.726);
+  border-radius: 0.5rem;
 }
